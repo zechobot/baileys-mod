@@ -1,7 +1,7 @@
 {
-    "name": "@zebuild/baileys-pro",
-    "version": "2.0.3",
-    "description": "WhatsApp API Modification By zebuild",
+    "name": "@zecho/baileys-mod",
+    "version": "1.0.9",
+    "description": "WhatsApp API Baileys Mods by zecho",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -12,12 +12,12 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://github.com/zebuildV10/bails",
+    "homepage": "https://github.com/zechobot/baileys-mod",
     "repository": {
-        "url": "https://github.com/zebuildV10/bails"
+        "url": "https://github.com/zechobot/baileys-mod"
     },
     "license": "MIT",
-    "author": "zebuild",
+    "author": "zecho",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
